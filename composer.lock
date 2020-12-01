@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "a54d11fe412a8c10277e669b083dc3a1",
+    "content-hash": "3eadb9217b76ce73112cd07d7c892333",
     "packages": [
         {
             "name": "doctrine/inflector",
@@ -221,7 +221,7 @@
         },
         {
             "name": "illuminate/database",
-            "version": "v8.17.0",
+            "version": "8.x-dev",
             "source": {
                 "type": "git",
                 "url": "https://github.com/illuminate/database.git",
@@ -327,7 +327,7 @@
         },
         {
             "name": "illuminate/support",
-            "version": "v8.17.0",
+            "version": "8.x-dev",
             "source": {
                 "type": "git",
                 "url": "https://github.com/illuminate/support.git",
