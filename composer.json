@@ -18,5 +18,12 @@
         "psr-4": {
             "Cardinal\\Permissions\\": "src/"
         }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Cardinal\\Permissions\\CardinalServiceProvider"
+            ]
+        }
     }
 }
