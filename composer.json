@@ -1,0 +1,22 @@
+{
+    "name": "cardinal/permissions",
+    "description": "User permissions management system for laravel",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Hoooki",
+            "email": "hooki.kibo@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "illuminate/support": "^9.0@dev",
+        "illuminate/database": "^9.0@dev"
+    },
+    "autoload": {
+        "psr-4": {
+            "Cardinal\\Permissions\\": "src/"
+        }
+    }
+}
