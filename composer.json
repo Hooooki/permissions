@@ -11,8 +11,8 @@
     ],
     "minimum-stability": "dev",
     "require": {
-        "illuminate/support": "^9.0@dev",
-        "illuminate/database": "^9.0@dev"
+        "illuminate/support": "v8.17.0",
+        "illuminate/database": "v8.17.0"
     },
     "autoload": {
         "psr-4": {
